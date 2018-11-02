@@ -2,17 +2,21 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+Welcome to Sol's Portolio! This portfolio will contain information about my knowledge involving Computer Information Technology. Many of these projects that I have worked on are from school or personal projects. Many of the school projects involved recreating projects in a real-world scenario such as consultation for a company, system design, and network design.
 
-[Link to another page](./another-page.html).
+# School Projects
 
-There should be whitespace between paragraphs.
+*   Consultation system designs for e-commerce
+*   Consultation network designs for Use-case scenarios
+*   Active Directory for a client-server network
+*   Conceptual and Logical Database design
+*   Risk Factor Assessement
+*   Information Technology architectural design using virtualization
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+# Personal Projects
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+*       A software client for a major popular MMORPG game
+*       Converting
 
 ## Header 2
 
