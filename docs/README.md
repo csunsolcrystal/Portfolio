@@ -1,4 +1,4 @@
-## Welcome to Sol Crystal's Portfolio!
+## Welcome to Sol Crystal's Webpages!
 
-In this portfolio, you will find the various projects I spent time on from either school or from school projects.
+On this website, You will find the vast projects I worked on in a nice website format.
 
