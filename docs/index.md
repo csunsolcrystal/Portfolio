@@ -15,9 +15,9 @@ Welcome to Sol's Portolio! This portfolio will contain information about my know
 
 # Personal Projects
 
-*       Software client for a major popular MMORPG game
-*       AHK (Auto Hot Key) script using 3rd party software that converts images/documents/non-text into text characters
-*       Home lab setup using virtualization
+*   Software client for a major popular MMORPG game
+*   AHK (Auto Hot Key) script using 3rd party software that converts images/documents/non-text into text characters
+*   Home lab setup using virtualization
 
 ## Header 2
 
