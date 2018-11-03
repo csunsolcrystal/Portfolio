@@ -35,22 +35,13 @@ Hello my name is Sol Crystal and I am currently a student in his final year purs
 >
 <iframe src="https://drive.google.com/file/d/11bT-p0BJ-OY62xhQrR-YBR5e4stv_fQZ/preview" width="640" height="480"></iframe>
 
-### Header 3
+### IT Design Use-case scenario 1
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+> Project Timeline: May 2017 - May 2017
+>
+> This project was based on a use-case scenario imitating a real-world scenario where students were given the role as an IT project manager. Each student was given IT requirements to fufill and were required to hand in delilverables on proposing an IT infrastructure. Each project was given a budget to fufill the requirements. Students had to pick out what hardware will be needed for workstations, physical servers, storage, network hardware (switches, routers, etc.), and other necessities.
+>
+<iframe src="https://drive.google.com/file/d/1mWQseojmEU7bYfR7uDZq7ymUBI0dGW8k/preview" width="640" height="480"></iframe>
 
 #### Header 4
 
