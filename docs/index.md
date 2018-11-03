@@ -35,13 +35,21 @@ Hello my name is Sol Crystal and I am currently a student in his final year purs
 >
 <iframe src="https://drive.google.com/file/d/11bT-p0BJ-OY62xhQrR-YBR5e4stv_fQZ/preview" width="640" height="480"></iframe>
 
-### IT Design Use-case scenario 1
+### IT Design Use-case scenario
 
 > Project Timeline: May 2017 - May 2017
 >
 > This project was based on a use-case scenario imitating a real-world scenario where students were given the role as an IT project manager. Each student was given IT requirements to fufill and were required to hand in delilverables on proposing an IT infrastructure. Each project was given a budget to fufill the requirements. Students had to pick out what hardware will be needed for workstations, physical servers, storage, network hardware (switches, routers, etc.), and other necessities.
 >
 <iframe src="https://drive.google.com/file/d/1mWQseojmEU7bYfR7uDZq7ymUBI0dGW8k/preview" width="640" height="480"></iframe>
+
+### Network Design Use-case scenario
+
+> Project Timeline: November 2017 - December 2017
+>
+> This project was based on a use-case scenario where students acted as roles of being network adminstrators and were given a budget and network requirements to fulfill in order to meet a company's demands. This project involved picking particular hardware such as routers, switches, and APs(access points). Besides picking hardware, there were specific requests on where certain hardware and servers will be placed. This involved management of two buildings.
+>
+<iframe src="https://drive.google.com/file/d/1XnGmxCGJ9gZQfvndmunU3GkpqVxHjDGH/preview" width="640" height="480"></iframe>
 
 #### Header 4
 
