@@ -29,7 +29,7 @@ This portfolio will contain information about my knowledge involving Computer In
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 >
-<iframe width="85%" height="100%" src="https://docs.google.com/a/my.csun.edu/document/d/e/2PACX-1vSDgrvuLMQ9d-BO4hKSirZWQ4Nhnn8ReYQ4dhrVUIYErCzjIhIbWPVCs9UpPQBAl0ECMLmeKm8Fjsef/pub?embedded=true"></iframe>
+<iframe width="50%" height="300" align = "center" src="https://docs.google.com/a/my.csun.edu/document/d/e/2PACX-1vSDgrvuLMQ9d-BO4hKSirZWQ4Nhnn8ReYQ4dhrVUIYErCzjIhIbWPVCs9UpPQBAl0ECMLmeKm8Fjsef/pub?widget=true&amp;headers=false">
 
 ### Header 3
 
