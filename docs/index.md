@@ -25,9 +25,9 @@ This portfolio will contain information about my knowledge involving Computer In
 
 ### Consultation System Design for eCommerce
 
-> This is a blockquote following a header.
+> Project Timeline: August 2017 - December 2017
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+> This semester long group project involved creating a system design for the company American Vision Windows. In our research, we realized that the company lacked an e-commerce environment and account recievables issue. To solve this issue, we worked on a system design that allows customers and employees to keep track of transactions online. In this document, it contains methodical diagrams such as DFD (Data-flow diagrams) and ERD (Entity-Relation Diagrams).
 >
 <iframe src="https://drive.google.com/file/d/11bT-p0BJ-OY62xhQrR-YBR5e4stv_fQZ/preview" width="640" height="480"></iframe>
 
