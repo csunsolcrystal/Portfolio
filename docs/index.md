@@ -12,6 +12,8 @@ This portfolio will contain information about my knowledge involving Computer In
 *   Consultation network designs for Use-case scenarios
 *   Active Directory for a client-server network
 *   Conceptual and Logical Database design
+*   Basic web-development using LAMP
+*   Prototyping context-awareness software design
 *   Risk Factor Assessement
 *   Information Technology architectural design using virtualization
 
@@ -21,11 +23,13 @@ This portfolio will contain information about my knowledge involving Computer In
 *   AHK (Auto Hot Key) script using 3rd party software that converts images/documents/non-text into text characters
 *   Home lab setup using virtualization
 
-### Header 2
+### Consultation System Design for eCommerce
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
+>
+> <iframe src="https://docs.google.com/a/my.csun.edu/document/d/e/2PACX-1vSDgrvuLMQ9d-BO4hKSirZWQ4Nhnn8ReYQ4dhrVUIYErCzjIhIbWPVCs9UpPQBAl0ECMLmeKm8Fjsef/pub?embedded=true"></iframe>
 
 ### Header 3
 
