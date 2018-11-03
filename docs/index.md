@@ -53,6 +53,7 @@ Hello my name is Sol Crystal and I am currently a student in his final year purs
 
 ### Conceptual and logical Database Design
 >
+> Files: [Sqlite file](https://drive.google.com/open?id=131bGP6cAczZPEwoX07gzMqPbBJJyxTnX) [SQL file](https://drive.google.com/open?id=1QevDXjQ9_7i204whL-dIwyY1RKIJeeHR)
 > This project involved creating a database from a conceptual and logical point of view using the Sqlite software to implement the final design. For our group's project, we created a database design based on the movie rental company Redbox. Our database design involved 12 tables consisting of customer information and movie information such as customer information, rental information, ratings information, awards information and detailed movie information. The data in this database design involved using real movie data from the IMDB datasets, which required parsing the data. All the schema diagrams and SQL implementations are included in the document below.
 >
 <iframe src="https://drive.google.com/file/d/1J7waAib0mqN41pSaWZpGrUELUVSButT1/preview" width="640" height="480"></iframe>
