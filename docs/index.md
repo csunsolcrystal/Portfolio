@@ -6,7 +6,7 @@ Welcome to Sol's Portolio! This portfolio will contain information about my know
 
 # School Projects
 
-*   Consultation system designs for e-commerce
+*   Consultation system design for e-commerce
 *   Consultation network designs for Use-case scenarios
 *   Active Directory for a client-server network
 *   Conceptual and Logical Database design
@@ -15,8 +15,9 @@ Welcome to Sol's Portolio! This portfolio will contain information about my know
 
 # Personal Projects
 
-*       A software client for a major popular MMORPG game
-*       Converting
+*       Software client for a major popular MMORPG game
+*       AHK (Auto Hot Key) script using 3rd party software that converts images/documents/non-text into text characters
+*       Home lab setup using virtualization
 
 ## Header 2
 
