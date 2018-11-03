@@ -6,7 +6,7 @@ layout: default
 
 This portfolio will contain information about my knowledge involving Computer Information Technology. Many of these projects that I have worked on are from school or personal projects. Many of the school projects involved recreating projects in a real-world scenario such as consultation for a company, system design, and network design.
 
-# School Projects
+## School Projects
 
 *   Consultation system design for e-commerce
 *   Consultation network designs for Use-case scenarios
@@ -15,13 +15,13 @@ This portfolio will contain information about my knowledge involving Computer In
 *   Risk Factor Assessement
 *   Information Technology architectural design using virtualization
 
-# Personal Projects
+## Personal Projects
 
 *   Software client for a major popular MMORPG game
 *   AHK (Auto Hot Key) script using 3rd party software that converts images/documents/non-text into text characters
 *   Home lab setup using virtualization
 
-## Header 2
+### Header 2
 
 > This is a blockquote following a header.
 >
