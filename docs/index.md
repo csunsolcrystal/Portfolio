@@ -6,6 +6,10 @@ layout: default
 
 This portfolio will contain information about my knowledge involving Computer Information Technology. Many of these projects that I have worked on are from school or personal projects. Many of the school projects involved recreating projects in a real-world scenario such as consultation for a company, system design, and network design.
 
+## About me
+
+Hello my name is Sol Crystal and I am currently a student in his final year pursuing a Bachelor's degree in Computer Information Technology and a minor focus in Geographic Information Science (GIS). Despite the lack of professional work experience due to an uncontrollable life circumstance, I am looking for a starting point to get my foot in the door and pursue my dreams.
+
 ## School Projects
 
 *   Consultation system design for e-commerce
