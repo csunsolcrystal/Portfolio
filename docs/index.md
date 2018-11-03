@@ -2,7 +2,9 @@
 layout: default
 ---
 
-Welcome to Sol's Portolio! This portfolio will contain information about my knowledge involving Computer Information Technology. Many of these projects that I have worked on are from school or personal projects. Many of the school projects involved recreating projects in a real-world scenario such as consultation for a company, system design, and network design.
+# Welcome to Sol's Portolio! 
+
+This portfolio will contain information about my knowledge involving Computer Information Technology. Many of these projects that I have worked on are from school or personal projects. Many of the school projects involved recreating projects in a real-world scenario such as consultation for a company, system design, and network design.
 
 # School Projects
 
