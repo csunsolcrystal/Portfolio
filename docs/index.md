@@ -34,7 +34,7 @@ Hello my name is Sol Crystal and I am currently a student in his final year purs
 > This semester long group project involved creating a system design for the company American Vision Windows. In our research, we realized that the company lacked an e-commerce environment and account recievables issue. To solve this issue, we worked on a system design that allows customers and employees to keep track of transactions online. In this document, it contains methodical diagrams such as DFD (Data-flow diagrams) and ERD (Entity-Relation Diagrams).
 >
 <iframe src="https://drive.google.com/file/d/11bT-p0BJ-OY62xhQrR-YBR5e4stv_fQZ/preview" width="640" height="480"></iframe>
-
+* * *
 ### IT Design Use-case scenario
 
 > Project Timeline: May 2017 - May 2017
@@ -42,7 +42,7 @@ Hello my name is Sol Crystal and I am currently a student in his final year purs
 > This project was based on a use-case scenario imitating a real-world scenario where students were given the role as an IT project manager. Each student was given IT requirements to fufill and were required to hand in delilverables on proposing an IT infrastructure. Each project was given a budget to fufill the requirements. Students had to pick out what hardware will be needed for workstations, physical servers, storage, network hardware (switches, routers, etc.), and other necessities.
 >
 <iframe src="https://drive.google.com/file/d/1mWQseojmEU7bYfR7uDZq7ymUBI0dGW8k/preview" width="640" height="480"></iframe>
-
+* * *
 ### Network Design Use-case scenario
 
 > Project Timeline: November 2017 - December 2017
@@ -50,7 +50,7 @@ Hello my name is Sol Crystal and I am currently a student in his final year purs
 > This project was based on a use-case scenario where students acted as roles of being network adminstrators and were given a budget and network requirements to fulfill in order to meet a company's demands. This project involved picking particular hardware such as routers, switches, and APs(access points). Besides picking hardware, there were specific requests on where certain hardware and servers will be placed. This involved management of two buildings.
 >
 <iframe src="https://drive.google.com/file/d/1XnGmxCGJ9gZQfvndmunU3GkpqVxHjDGH/preview" width="640" height="480"></iframe>
-
+* * *
 ### Conceptual and logical Database Design
 
 > Project Timeline: February 2018 - May 2018
@@ -60,7 +60,7 @@ Hello my name is Sol Crystal and I am currently a student in his final year purs
 > This project involved creating a database from a conceptual and logical point of view using the Sqlite software to implement the final design. For our group's project, we created a database design based on the movie rental company Redbox. Our database design involved 12 tables consisting of customer information and movie information such as customer information, rental information, ratings information, awards information and detailed movie information. The data in this database design involved using real movie data from the IMDB datasets, which required parsing the data. All the schema diagrams and SQL implementations are included in the document below.
 >
 <iframe src="https://drive.google.com/file/d/1J7waAib0mqN41pSaWZpGrUELUVSButT1/preview" width="640" height="480"></iframe>
-
+* * *
 #### Header 4
 
 *   This is an unordered list following a header.
