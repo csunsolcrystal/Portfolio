@@ -51,6 +51,12 @@ Hello my name is Sol Crystal and I am currently a student in his final year purs
 >
 <iframe src="https://drive.google.com/file/d/1XnGmxCGJ9gZQfvndmunU3GkpqVxHjDGH/preview" width="640" height="480"></iframe>
 
+### Conceptual and logical Database Design
+>
+> This project involved creating a database from a conceptual and logical point of view. For our group's project, we created a database design based on the movie rental company Redbox. Our database design involved 11 tables consisting of customer information and movie information such as customer information, rental information, ratings information, and detailed movie information.
+>
+<iframe src="https://drive.google.com/file/d/1J7waAib0mqN41pSaWZpGrUELUVSButT1/preview" width="640" height="480"></iframe>
+
 #### Header 4
 
 *   This is an unordered list following a header.
