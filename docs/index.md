@@ -16,14 +16,15 @@ Hello my name is Sol Crystal and I am currently a student in his final year purs
 *   Consultation network designs for Use-case scenarios
 *   Active Directory for a client-server network
 *   Conceptual and Logical Database design
-*   Basic web-development using LAMP
+*   Web development projects using Full Stack
 *   Prototyping context-awareness software design
 *   Risk Factor Assessement
-*   Information Technology architectural design using virtualization
+*   Information Technology architectural & infrastructual design using virtualization/cloud technology
 
 ## Personal Projects
 
-*   Software client for a major popular MMORPG game
+*   Software client for a major popular video game
+*   Web development project using datasets from IMDB
 *   AHK (Auto Hot Key) script using 3rd party software that converts images/documents/non-text into text characters
 *   Home lab setup using virtualization
 
